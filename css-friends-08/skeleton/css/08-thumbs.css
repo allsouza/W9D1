@@ -1,0 +1,9 @@
+/* PHASE 8: Thumbs */
+
+.friend-grid li {
+    float: left;
+    width: 55px;
+    margin: 4.5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
